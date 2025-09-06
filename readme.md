@@ -8,7 +8,7 @@ git add .
 # Commit change / save change
 git commit -m "first commit"
 
-# Set up the connection with the remote repo
-
+# push code to 
+git push -u origin master
 ```
 
